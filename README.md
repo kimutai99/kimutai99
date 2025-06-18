@@ -1,3 +1,5 @@
+<div align="center">
+
 ## 👋 Hi, I'm Brian Kimutai Siele
 
 🎓 **Data Scientist** | 📊 **Data Analyst** | 🤖 **Machine Learning Developer**  
@@ -8,11 +10,11 @@
 ---
 
 ### 🧠 Skills
-- **Languages**: Python, SQL, HTML, CSS
+- **Languages**: Python, SQL, HTML, CSS  
 - **Data Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **BI & Visualization**: Power BI, Tableau, Excel  
 - **ML & Deployment**: Flask, XGBoost, Random Forest, Docker  
 - **Database**: MySQL, PostgreSQL  
 - **Version Control & DevOps**: Git, GitHub, Azure DevOps  
 
----
+</div>
