@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Brian Kimutai Siele
+## 👋 Hi, I'm Brian Kimutai 
 
 🎓 **Data Scientist** | 📊 **Data Analyst** | 🤖 **Machine Learning Developer**  
 🌍 Based in Kenya | 💼 Open to Remote Opportunities  
